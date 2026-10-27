@@ -1,0 +1,8 @@
+pandas>=2.2
+numpy>=1.26
+scipy>=1.13
+statsmodels>=0.14
+matplotlib>=3.9
+pyarrow>=15
+jupyter
+pytest
